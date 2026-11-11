@@ -1,5 +1,4 @@
 <div align="center">
-
 <p>
   Fork of OSSU Math
 </p>
@@ -11,9 +10,6 @@
 </div>
 
 # Curriculum
-
-The curriculum is separated into two parts:
-
 - [Core Mathematics](#core-mathematics)
   - [Introduction to Mathematical Thinking](#introduction-to-mathematical-thinking)
   - [Calculus](#calculus)
@@ -33,11 +29,7 @@ The curriculum is separated into two parts:
   
 ## Core Mathematics
 
-All classes under Core Mathematics are **required**, unless stated otherwise.
-
 ### Introduction to Mathematical Thinking
-Most people's views of mathematics are destroyed in school by focusing on memorization and regurgitation. But mathematicians see math as an elegant way to explain the world around us. This class covers how to think like a mathematician and solve problems. 
-
 **Topics covered:**
 `Mathematical mindset`
 `Number Theory`
@@ -48,8 +40,6 @@ Courses | Duration | Effort | Prerequisites
 [LaTeX](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) | 1 week | 30 minutes/week | none
 
 ### Calculus 
-Calculus is the study of change (differential calculus) and accumulation of quantities (integral calculus). As the cornerstone of geometry and physics, it serves as the foundation for understanding many natural phenomena and plays an essential role in modern technology, scientific discovery, and many fields, including engineering, economics, and medicine.
-
 **Topics Covered:**
 `Derivatives`
 `Integrals`
@@ -63,8 +53,6 @@ Courses | Duration | Effort | Prerequisites
 [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) | 12 weeks | 6 hours/week | Calculus 1C 
 
 ### Introduction to Differential Equations
-Differential equations describe the science of change: the route by which natural and man-made systems move from one state to another. Epidemics, population growth, and weather patterns are all modeled using differential equations. It provides us a mathematical language to describe physical, chemical, and biological systems and their evolution.
-
 **Topics covered:**
 `First-order ODEs`
 `Second-order ODEs`
@@ -76,8 +64,7 @@ Courses | Duration | Effort | Prerequisites
 [Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/) | 14 weeks | 12 hours/week | Calculus 1C
 
 ### Discrete Mathematics
-Discrete mathematics is the mathematics of objects and ideas. It includes topics such as combinatorics, graph theory, and logic. The topics discussed here also form the basis of the field of computer science. For mathematics majors, a discrete math course is usually also a first introduction to formal proofs. 
-
+combinatorics, graph theory, and logic.
 **Topics covered:**
 `Counting`
 `Grouping`
@@ -89,8 +76,6 @@ Courses | Duration | Effort | Prerequisites
 [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) | 14 weeks | 6-8 hours/week | Calculus 1C
 
 ### Linear Algebra
-Linear algebra is the mathematics of spatial relationships that deals with the manipulation of vectors and matrices. It provides an elegant way to consider many simultaneous equations, visualize arbitrarily-many dimensions, and explain complex phenomena in simple terms.
-
 **Topics covered:**
 `Vector and matrix calculations`
 `Linear transformations`
@@ -103,8 +88,7 @@ Courses | Duration | Effort | Prerequisites
 [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | 14 weeks | 12 hours/week | Essence of Linear Algebra
 
 ### Probability & Statistics
-Probability is the mathematics of uncertainty. Statistics is the mathematical framework for quantifying uncertainty in real-world data. These two related but distinct fields of study help us describe variation and uncertainty in the world around us. These courses make heavy use of discrete mathematics, linear algebra, and calculus, and serve as a first opportunity to apply what you've learned in the other core courses.
-
+Make heavy use of discrete mathematics, linear algebra, and calculus.
 **Topics covered:**
 `Random variables`
 `Expectation and Variance`
@@ -116,8 +100,7 @@ Courses | Duration | Effort | Prerequisites
 [Statistics for Applications](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/) | 14 weeks | 12-16 hours/week | Probability
 
 ### Introduction to Analysis
-Analysis is the mathematics of sequences and limits. Intro to Analysis is a course that builds on the concepts of Calculus and provides a rigorous and formalized study of the foundations of Calculus. This course will use formal proofs to establish mathematical results, starting by proving the existence of real numbers and building the foundation of single-variable Calculus from scratch.
-
+Sequences and limits, single-variable Calculus.
 **Topics covered:**
 `Proofs`
 `Real analysis`
