@@ -2,11 +2,9 @@
 
 <p>
   Fork of OSSU Math
-</p>
-<p>
-  <a href="https://github.com/ossu/math">
+    <a href="https://github.com/ossu/math">
     <img alt="Open Source Society University - Math" src="https://img.shields.io/badge/OSSU-math-blue.svg">
-  </a>
+    </a>
 </p>
 </div>
 
