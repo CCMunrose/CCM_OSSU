@@ -15,7 +15,6 @@
 - [HEADER](#HEADER)
 - [HUB/COMMS](#HUBCOMMS)
 - [Curriculum](#curriculum)
-- [License](#license)
 
 # HEADER
 
