@@ -25,8 +25,11 @@
 - High Quality
 
 **Materials**    : E-Books, Internet Videos
+
 **Duration**     : No definitive duration
+
 **Cost**         : Your time and the efficiency of your own to find the materials
+
 **Process**      : Top-Bottom / Specific (Check your own prerequisites)
 
 
