@@ -13,25 +13,9 @@
 # Table of Contents
 
 - [HEADER](#HEADER)
-- [HUB/COMMS](#HUBCOMMS)
 - [Curriculum](#curriculum)
 
 # HEADER
-
-### GOALS (Acquisitions -> Evaluate -> Action)
-Effectiveness and improvement of critical, analytical and practical ways of thinking through object of interest with encouragement of creativity to link understanding and solve it, using either technological tools or cognitive ways.
-
-
-- Match our [curricular guidelines](CURRICULAR_GUIDELINES.md) the 2015 CUPM Guide.
-
-**Materials**    : E-Books, Internet Videos
-
-**Duration**     : No definitive duration
-
-**Cost**         : Your time and the efficiency of your own to find the materials
-
-**Process**      : Top-Bottom / Specific (Check your own prerequisites)
-
 
 - Courses in Core Mathematics are the basic requirements for all OSSU Math students and provide a foundation for deeper study. Take all of these courses.
 - Courses in Advanced Topics are electives. Take one course in each topic area. Then choose one topic you want to become an expert in and take all the courses under that heading. You can also create your own custom subject (we recommend getting validation from the community on the subject you choose).
@@ -40,10 +24,6 @@ Effectiveness and improvement of critical, analytical and practical ways of thin
 **[How to contribute](CONTRIBUTING.md)**
 
 **[Getting help](HELP.md)** (Details about our FAQ and chatroom)
-
-# HUB/COMMS
--  [OSSU Discord](https://discord.gg/5pUhfpX)
--  [MEET UP Website](https://www.meetup.com/)
 
 # Curriculum
 
