@@ -31,8 +31,8 @@
 
 ### Introduction to Mathematical Thinking
 
-[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking)
-[LaTeX](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+- [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking)
+- [LaTeX](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 
 ### Calculus 
 **Topics Covered:**
