@@ -19,9 +19,11 @@
 
 # Summary
 
-**Courses must**:
+### GOALS (Acquisitions -> Evaluate -> Action)
+Effectiveness and improvement of critical, analytical and practical ways of thinking through object of interest with encouragement of creativity to link understanding and solve it, using either technological tools or cognitive ways.
+
+
 - Match our [curricular guidelines](CURRICULAR_GUIDELINES.md) the 2015 CUPM Guide.
-- High Quality
 
 **Materials**    : E-Books, Internet Videos
 
