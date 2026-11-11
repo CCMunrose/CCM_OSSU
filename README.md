@@ -30,14 +30,9 @@
 ## Core Mathematics
 
 ### Introduction to Mathematical Thinking
-**Topics covered:**
-`Mathematical mindset`
-`Number Theory`
 
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | 10 weeks | 4 hours/week | none
-[LaTeX](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) | 1 week | 30 minutes/week | none
+[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking)
+[LaTeX](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 
 ### Calculus 
 **Topics Covered:**
