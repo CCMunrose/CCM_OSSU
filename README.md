@@ -10,16 +10,6 @@
 </p>
 </div>
 
-# Table of Contents
-
-- [HEADER](#HEADER)
-- [Curriculum](#curriculum)
-
-# HEADER
-
-- Courses in Core Mathematics are the basic requirements for all OSSU Math students and provide a foundation for deeper study. Take all of these courses.
-- Courses in Advanced Topics are electives. Take one course in each topic area. Then choose one topic you want to become an expert in and take all the courses under that heading. You can also create your own custom subject (we recommend getting validation from the community on the subject you choose).
-
 # Curriculum
 
 The curriculum is separated into two parts:
