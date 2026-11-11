@@ -10,14 +10,14 @@
 </p>
 </div>
 
-# Contents
+# Table of Contents
 
-- [Summary](#summary)
+- [HEADER](#HEADER)
 - [HUB](#HUB)
 - [Curriculum](#curriculum)
 - [License](#license)
 
-# Summary
+# HEADER
 
 ### GOALS (Acquisitions -> Evaluate -> Action)
 Effectiveness and improvement of critical, analytical and practical ways of thinking through object of interest with encouragement of creativity to link understanding and solve it, using either technological tools or cognitive ways.
