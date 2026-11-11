@@ -13,7 +13,7 @@
 # Table of Contents
 
 - [HEADER](#HEADER)
-- [HUB](#HUB)
+- [HUB/COMMS](#HUB/COMMS)
 - [Curriculum](#curriculum)
 - [License](#license)
 
@@ -42,8 +42,9 @@ Effectiveness and improvement of critical, analytical and practical ways of thin
 
 **[Getting help](HELP.md)** (Details about our FAQ and chatroom)
 
-# HUB
+# HUB/COMMS
 -  [OSSU Discord](https://discord.gg/5pUhfpX)
+-  [MEET UP Website](https://www.meetup.com/)
 
 # Curriculum
 
@@ -208,16 +209,6 @@ Real analysis, numerical analysis, complex analysis, optimization theory
 ### Abstract Algebra
 Abstract algebra, category theory, algebraic geometry and topology
 
-
-## Congratulations
-
-After completing the requirements of the curriculum above, you will have completed the equivalent of a full bachelor's degree in Mathematics. Congratulations!
-
-What is next for you? The possibilities are boundless and overlapping:
-
-- Look for a job. Mathematicians go into careers as statisticians, financial analysts, actuaries, and more!
-- Join a local math club (e.g. via [meetup.com](https://www.meetup.com/)).
-- Pay attention to emerging ideas in mathematics by subscribing to a math journal or joining a professional math organization.
 
 ## How to show your progress
 
