@@ -31,7 +31,7 @@
 
 ### Introduction to Mathematical Thinking
 - ~~[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking)~~
-- ~~Joplin~~ + LaTeX
+- ~~Joplin~~ + KaTeX
 
 ### Calculus 
 **Topics Covered:**
