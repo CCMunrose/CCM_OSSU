@@ -14,7 +14,6 @@
 
 - [Summary](#summary)
 - [Community](#community)
-- [Code of conduct](#code-of-conduct)
 - [Curriculum](#curriculum)
 - [License](#license)
 
@@ -36,8 +35,6 @@
 - Courses in Core Mathematics are the basic requirements for all OSSU Math students and provide a foundation for deeper study. Take all of these courses.
 - Courses in Advanced Topics are electives. Take one course in each topic area. Then choose one topic you want to become an expert in and take all the courses under that heading. You can also create your own custom subject (we recommend getting validation from the community on the subject you choose).
 
-**Content policy**. If you plan on showing off some of your coursework publicly, you must share only files that you are allowed to.
-*Respect the code of conduct that you sign in the beginning of each course!*
 
 **[How to contribute](CONTRIBUTING.md)**
 
@@ -48,9 +45,6 @@
 - We have a Discord server! This should be your first stop to talk with other OSSU students. Why don't you introduce yourself right now? [Join the OSSU Discord](https://discord.gg/5pUhfpX)
 - You can also interact through [GitHub issues](https://github.com/ossu/math/issues). If there is a problem with a course or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](CONTRIBUTING.md).
 - Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) profile!
-
-# Code of conduct
-[OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
 
 # Curriculum
 
