@@ -1,9 +1,7 @@
 <div align="center">
-<img src="http://i.imgur.com/kYYCXtC.png" alt="Open Source Society logo"/>
 
-<h3>Open Source Society University</h3>
 <p>
-  :abacus: Path to a free self-taught education in Math!
+  Fork of OSSU Math
 </p>
 <p>
   <a href="https://github.com/ossu/math">
@@ -22,33 +20,16 @@
 
 # Summary
 
-The OSSU curriculum is a **complete education in mathematics** using online materials.
-It's for those who want a proper grounding in concepts fundamental to all math disciplines,
-and for those who have the discipline, will, and good habits to obtain this education largely on their own,
-but with support from a worldwide community of fellow learners.
-
-It is designed according to the degree requirements of undergraduate math majors, minus general education (non-math) requirements,
-as it is assumed most of the people following this curriculum are already educated outside the field of math.
-The courses themselves are among the very best in the world, often coming from Harvard, MIT, Stanford, etc.,
-but specifically chosen to meet the following criteria.
-
 **Courses must**:
 - Match our [curricular guidelines](CURRICULAR_GUIDELINES.md) the 2015 CUPM Guide.
-- Be open for enrollment
-- Run regularly (ideally in self-paced format, otherwise running multiple times per year)
-- Be of high quality in teaching materials and pedagogical practice
+- High Quality
 
-When no course meets the above criteria, the coursework is supplemented with a book.
+**Materials**    : E-Books, Internet Videos
+**Duration**     : No definitive duration
+**Cost**         : Your time and the efficiency of your own to find the materials
+**Process**      : Top-Bottom / Specific (Check your own prerequisites)
 
-**Duration**. It is possible to finish the curriculum within about 2 years if you plan carefully and devote roughly 18-22 hours/week to your studies.
 
-**Cost**. OSSU strives to identify free resources to reach your learning goal. However, some courses may charge money for assignments/tests/projects to be graded.
-
-Decide how much or how little to spend based on your own time and budget;
-just remember that you can't purchase success!
-
-**Process**. Students can work through the curriculum alone or in groups, in order or out of order.
-- For simplicity, we recommend working through courses in order from top to bottom, as they have already been sorted by their prerequisites.
 - Courses in Core Mathematics are the basic requirements for all OSSU Math students and provide a foundation for deeper study. Take all of these courses.
 - Courses in Advanced Topics are electives. Take one course in each topic area. Then choose one topic you want to become an expert in and take all the courses under that heading. You can also create your own custom subject (we recommend getting validation from the community on the subject you choose).
 
