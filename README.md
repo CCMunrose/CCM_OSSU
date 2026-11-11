@@ -13,7 +13,7 @@
 # Contents
 
 - [Summary](#summary)
-- [Community](#HUB)
+- [HUB](#HUB)
 - [Curriculum](#curriculum)
 - [License](#license)
 
