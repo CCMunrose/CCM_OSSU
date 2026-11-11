@@ -13,7 +13,7 @@
 # Table of Contents
 
 - [HEADER](#HEADER)
-- [HUB/COMMS](#HUB/COMMS)
+- [HUB/COMMS](#HUBCOMMS)
 - [Curriculum](#curriculum)
 - [License](#license)
 
