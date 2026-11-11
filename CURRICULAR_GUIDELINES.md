@@ -1,6 +1,4 @@
 ### GOALS
-Effectiveness and improvement of critical, analytical and practical ways of thinking through object of interest with encouragement of creativity to link understanding and solve it, using either technological tools or cognitive ways
+Effectiveness and improvement of critical, analytical and practical ways of thinking through object of interest with encouragement of creativity to link understanding and solve it, using either technological tools or cognitive ways.
 
-
-### Content Goals (Not really accurate) : Read -> Understand -> Analyze -> Connect -> Apply
-
+(Acquisitions -> Evaluate -> Action)
